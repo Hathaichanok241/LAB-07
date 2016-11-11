@@ -405,7 +405,7 @@ Pluto |	5,945,900,000 km | 39.7269996| 331.05833069
 <hr>
 ### ตัวอย่างโปรแกรม
 <hr>
-![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.5.1.JPG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.5.2.JPG?raw=true)
 <hr>
 
 ##คลาส Math 
