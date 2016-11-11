@@ -209,28 +209,43 @@ namespace thruthTable
 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
 1. AND
-
+<hr>
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.0.JPG?raw=true)
 
 <hr>
 2. OR
+<hr>
+
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.1.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.2.JPG?raw=true)
 <hr>
 
+
 3. NOT
+<hr>
+
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.3.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.4.JPG?raw=true)
 <hr>
+
+
 4. NAND
+<hr>
+
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.5.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.6.JPG?raw=true)
 <hr>
+
+
 5. NOR
+<hr>
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.7.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.8.JPG?raw=true)
 <hr>
+
+
 6. Exclusive OR
+<hr>
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.9.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.10.JPG?raw=true)
 
