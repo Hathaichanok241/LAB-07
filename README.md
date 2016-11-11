@@ -209,6 +209,9 @@ namespace thruthTable
 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 ```
 1. AND
+
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.0.JPG?raw=true)
+
 2. OR
 3. NOT
 4. NAND
