@@ -212,28 +212,30 @@ namespace thruthTable
 
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.0.JPG?raw=true)
 
+<hr>
 2. OR
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.1.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.2.JPG?raw=true)
+<hr>
 
 3. NOT
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.3.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.4.JPG?raw=true)
-
+<hr>
 4. NAND
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.5.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.6.JPG?raw=true)
-
+<hr>
 5. NOR
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.7.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.8.JPG?raw=true)
-
+<hr>
 6. Exclusive OR
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.9.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.10.JPG?raw=true)
 
 
-
+<hr>
 
 
   2.2.2.	ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)
