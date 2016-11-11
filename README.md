@@ -208,12 +208,12 @@ namespace thruthTable
 ##การทดลอง การใช้งานข้อมูลชนิด boolean (2)
 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
-1. AND
+### AND
 <hr>
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.0.JPG?raw=true)
 
 <hr>
-2. OR
+### OR
 <hr>
 
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.1.JPG?raw=true)
@@ -221,7 +221,7 @@ namespace thruthTable
 <hr>
 
 
-3. NOT
+### NOT
 <hr>
 
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.3.JPG?raw=true)
@@ -229,7 +229,7 @@ namespace thruthTable
 <hr>
 
 
-4. NAND
+### NAND
 <hr>
 
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.5.JPG?raw=true)
@@ -237,14 +237,14 @@ namespace thruthTable
 <hr>
 
 
-5. NOR
+### NOR
 <hr>
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.7.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.8.JPG?raw=true)
 <hr>
 
 
-6. Exclusive OR
+### Exclusive OR
 <hr>
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.9.JPG?raw=true)
 ![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.3.10.JPG?raw=true)
