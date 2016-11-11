@@ -56,6 +56,9 @@ Maximum Value :2147483647
 
 คำสั่งสำหรับการทดลอง
 ให้นักศึกษา เขียนโปรแกรมคล้ายกับตัวอย่างที่ 1 โดยมีชนิดข้อมูลเป็น byte, char, bool, sbyte, short, ushort, uint, float, double, decimal, long และ ulong
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/7.1.JPG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/7.1.1.JPG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/7.1.2.JPG?raw=true)
 
 **หมายเหตุ**
  
@@ -119,6 +122,8 @@ namespace RandomNumber
 
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
 
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/7.2.0.JPG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/7.2.1.JPG?raw=true)
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
 
