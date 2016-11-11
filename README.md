@@ -278,20 +278,70 @@ public class intergerTest
 
 ##การทดลอง หาค่าจากสมการทางคณิตศาสตร์
 
-กำหนด ```a = 10, b = 20, x = 5, y = 2`` 
+กำหนดa = 10, b = 20, x = 5, y = 2
 ให้เขียนโปรแกรมเพื่อหาผลลัพธ์ของสมการต่อไปนี้
-```
-1.	a+b
-2.	x-b
-3.	x*b
-4.	y/a
-5.	b%y
-6.	y+10%x
-7.	a/3*5
-8.	9/2*a
-9.	y%8
-10.	100*x+y%2-a
-```
+
+###  a+b
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.0.JPG?raw=true)
+<hr>
+
+### x-b
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.1.JPG?raw=true)
+<hr>
+
+### x*b
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.2.JPG?raw=true)
+<hr>
+
+### y/a
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.3.JPG?raw=true)
+<hr>
+
+### b%y
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.4.JPG?raw=true)
+<hr>
+
+### y+10%x
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.5.JPG?raw=true)
+<hr>
+
+### a/3*5
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.6.JPG?raw=true)
+<hr>
+
+### 9/2*a
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.7.JPG?raw=true)
+<hr>
+
+### y%8
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.8.JPG?raw=true)
+<hr>
+
+### 100*x+y%2-a
+
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.4.9.JPG?raw=true)
+<hr>
+
+
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
