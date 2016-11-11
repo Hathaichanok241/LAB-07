@@ -390,18 +390,18 @@ SunToEarthTimeOfLight = 8.33333333333333 minutes
 
 ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 :----:|:----:|:----:|:----: 
-Mercury |	57,910,000 km		
-Venus |	108,200,000 km		
-Earth |	149,600,000 km		
-Mars |	227,940,000 km		
-Jupiter |	778,330,000 km		
-Uranus |	2,873,550,000 km		
-Neptune |	4,501,000,000 km		
-Pluto |	5,945,900,000 km		
+Mercury |	57,910,000 km	 | 0.38692049	 | 3.22433743
+Venus |	108,200,000 km	 | 0.72292863	 | 6.02440528
+Earth |	149,600,000 km	 | 0.99953903	 | 8.32949196
+Mars |	227,940,000 km	 | 1.55229674	 | 12.6913395
+Jupiter |	778,330,000 km	 | 5.20034223      | 43.33618636
+Uranus |	2,873,550,000 km | 19.1993676	 | 159.99473017	
+Neptune |	4,501,000,000 km | 30.0702941	 | 250.6085784	
+Pluto |	5,945,900,000 km | 39.7269996| 331.05833069		
 
 ### Code
 <hr>
-![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.5.JPG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.5.0.JPG?raw=true)
 <hr>
 ### ตัวอย่างโปรแกรม
 <hr>
