@@ -399,6 +399,15 @@ Uranus |	2,873,550,000 km
 Neptune |	4,501,000,000 km		
 Pluto |	5,945,900,000 km		
 
+### Code
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.5.JPG?raw=true)
+<hr>
+### ตัวอย่างโปรแกรม
+<hr>
+![](https://github.com/Hathaichanok241/LAB-07/blob/master/Imgs/7.5.1.JPG?raw=true)
+<hr>
+
 ##คลาส Math 
 ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math  ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก 
 [system.math](http://msdn.microsoft.com/en-us/library/system.math%28v=vs.110%29.aspx) 
